@@ -36,3 +36,13 @@ We visualized the distribution of bike rides by plotting how many bikes were ren
 We found that those who identify as men are the majority of our riders, with their average ride being approxiamately 5 minutes.
 Those who identified as women were our next largest group, whose average ride was approxiamately 6 minutes.
 Our last group was the collection of people whose indentified gender was not known. Their average time seemed to be between 5 and 25 minutes.
+
+### Trips by Weekday per Hour
+![img5](https://github.com/bikachuuuuuu/bikesharing/blob/main/resources/tripsbyweekdayperhour.JPG?raw=true)
+
+### Trips by Gender 
+![img6](https://github.com/bikachuuuuuu/bikesharing/blob/main/resources/tripsbygender.JPG?raw=true)
+
+### User Trips by Gender by Weekday
+![img7](https://github.com/bikachuuuuuu/bikesharing/blob/main/resources/usertripsbygender.JPG?raw=true)
+
