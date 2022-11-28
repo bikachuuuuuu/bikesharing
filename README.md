@@ -2,6 +2,8 @@
 
 ## Overview
 
+
+In this analysis, bike-sharing data from NYC Citi Bike August 2018 is transformed such that the columns are the appropriate data types (namely datetime). After this, the data was uploaded to Tableau to create an extensive analysis of the riders of these bikes and their habits.
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/rebecca.palmer4103/viz/NYCCitiBikeDataVisualization_16687350623240/NYCCitiBikeDataVisualization)
 
 ## Results
@@ -40,9 +42,22 @@ Our last group was the collection of people whose indentified gender was not kno
 ### Trips by Weekday per Hour
 ![img5](https://github.com/bikachuuuuuu/bikesharing/blob/main/resources/tripsbyweekdayperhour.JPG?raw=true)
 
+This heatmap shoows trips by weekday, per hour. We wanted to see which days and times have the heaviest usage of bikes, as well as which days and times have the lightest.
+We can see that Thursday mornings and evenings have the heaviest usage of the bikes. However, we can see that for Monday through Friday, the bikes are commonly used between 7:00AM to 9:00AM, and 4:00PM to 7:00PM.
+
 ### Trips by Gender 
 ![img6](https://github.com/bikachuuuuuu/bikesharing/blob/main/resources/tripsbygender.JPG?raw=true)
+
+This heatmap shows that men utilize the bikes the most. This information correlates with the fourth chart, as shown above
 
 ### User Trips by Gender by Weekday
 ![img7](https://github.com/bikachuuuuuu/bikesharing/blob/main/resources/usertripsbygender.JPG?raw=true)
 
+This analysis was trips by gender, by weekday and user type (customers and subscribers). The chart shows that the customers' genders are relatively spread out. However, for subscribers, we can see that a majority of the subscribers are men, followed by women, then unknown.
+
+## Summary
+
+In conclusion, males most commonly rent these bikes in short periods before and after work or throughout the day on weekends. Females typically have similar patterns as the men, but in lower numbers. If NYC Citi would like to combat this difference, they would do best to advertise to women in the city during these hours.
+
+An additional analysis to run is a map of where female users are renting their bikes from to ensure the accuracy of these advertisements.
+Another would be make this same analysis for the end station of female users is. If there is a notable pattern with the end station as there is with the start station, advertising along this route would prove to be effective.
